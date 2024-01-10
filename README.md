@@ -8,4 +8,4 @@ In this case we recreated an Error Page, making it responsive for all types of s
 
 **To do this challenge, you need a basic understanding of HTML, CSS we use tailwind.**
 
-![https://github.com/Camilamellizo/error_page](https://raw.githubusercontent.com/Camilamellizo/error_page/main/ERROR.png)
+![https://github.com/Camilamellizo/error_page](https://raw.githubusercontent.com/Camilamellizo/error_page/main/1.png)
